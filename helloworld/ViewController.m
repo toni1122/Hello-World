@@ -35,7 +35,7 @@
     if(_text1.text.length == 0)
         name = @"World";
     
-    _label1.text = [NSString stringWithFormat: @"Hello %@", name ];
+    _label1.text = [NSString stringWithFormat: @"Hello! %@", name ];
     
 }
 
